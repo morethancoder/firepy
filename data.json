@@ -1,0 +1,26 @@
+{
+  "book1": {
+    "title": "Peace One",
+    "author": "Potato",
+    "pages": 44,
+    "price": 12
+  },
+  "book2": {
+    "title": "Ughf",
+    "author": "Potato",
+    "pages": 245,
+    "price": 20
+  },
+  "book3": {
+    "title": "The Beef Burger",
+    "author": "Potato",
+    "pages": 100,
+    "price": 8
+  },
+  "book4": {
+    "title": "Sweet Spot",
+    "author": "Doja",
+    "pages": 134,
+    "price": 50
+  }
+}
