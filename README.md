@@ -1,3 +1,3 @@
 # firepy
 كيفية ربط فايربيس داتابيس بالبايثون وتطبيق عمليات قراءة وكتابة على الداتابيس
-## `pip install firebase_admin`
+ `pip install firebase_admin`
